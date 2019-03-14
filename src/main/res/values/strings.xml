@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nix6</string>
+    <string name="title_activity_word_list">WordList</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
